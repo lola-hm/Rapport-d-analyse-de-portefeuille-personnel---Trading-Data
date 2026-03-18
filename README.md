@@ -32,6 +32,6 @@ Ce projet consiste à analyser les performances de mon portefeuille de trading a
 - Création de graphiques et interprétation de résultats pour la prise de décision
 
 ## Fichiers
-- `notebooks/DATA_TRADING.ipynb` : Notebook Jupyter original  
+Notebook Jupyter   : https://nbviewer.org/github/lola-hm/Rapport-d-analyse-de-portefeuille-personnel---Trading-Data/blob/main/notebooks/DATA%20TRADING.ipynb
 - `notebooks/DATA_TRADING.html` : Notebook exporté en HTML  
 - `Rapport_de_résultats.pdf` : Résultats synthétisés
